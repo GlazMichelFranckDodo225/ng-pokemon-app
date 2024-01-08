@@ -1,3 +1,4 @@
+/* Module Racine du Projet */
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
